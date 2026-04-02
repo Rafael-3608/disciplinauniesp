@@ -1,1 +1,4 @@
-
+Faculdade Uniesp
+Curso: Ciências da Computação
+Rafael Gonçalves Damásio
+Tópicos essencias para programação
